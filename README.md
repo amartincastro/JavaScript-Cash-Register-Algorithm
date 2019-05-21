@@ -1,5 +1,9 @@
 # JavaScript-Cash-Register-Algorithm
 
+From the freeCodeCamp JavaScripts Data Structures and Algorithms Class: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
+//
+
 Design a cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument.
 
 cid is a 2D array listing available currency.
